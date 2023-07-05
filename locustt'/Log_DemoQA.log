@@ -1,0 +1,8 @@
+[2023-07-05 10:26:50,681] qb-blr-1107/ERROR/locust.main: Unknown User(s): DEBUG
+
+[2023-07-05 10:29:59,563] qb-blr-1107/INFO/locust.main: Run time limit set to 10 seconds
+[2023-07-05 10:29:59,563] qb-blr-1107/INFO/locust.main: Starting Locust 2.15.1
+[2023-07-05 10:29:59,564] qb-blr-1107/INFO/locust.runners: Ramping to 1 users at a rate of 1.00 per second
+[2023-07-05 10:29:59,564] qb-blr-1107/INFO/locust.runners: All users spawned: {"User": 1} (1 total users)
+[2023-07-05 10:30:05,606] qb-blr-1107/INFO/locust.main: writing html report to file: Run1
+[2023-07-05 10:30:05,608] qb-blr-1107/INFO/locust.main: Shutting down (exit code 0)
